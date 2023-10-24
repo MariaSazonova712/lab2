@@ -1,0 +1,149 @@
+*{
+    font-family: 'Abhaya Libre';
+}
+body{
+    margin: 0 auto;
+}
+
+header{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    width: auto;
+    background-color: #3B3937;
+    width: 1920px;
+    height: 98px;
+}
+
+.logo img{
+    margin: 0 auto;
+    margin-top: 18px;
+    text-align: center;
+}
+
+.main_menu ul li{
+    list-style-type: none;
+    display: inline;
+    align-items: center;
+    text-align: center;
+}
+
+a{
+    font-family: 'Abhaya Libre';
+    text-decoration: none;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    color:  #FFFFFF;
+    margin-right: 10px;
+    float: right;
+    text-align: center;
+margin-top: 25px;
+margin-left: 100px;
+}
+.support{
+    color: #FFD6A8;
+    font-size: 18px;
+    margin-top: 18px;
+}
+.number{
+    font-size: 22px;
+    color: #FFD6A8;
+    margin-top: 25px;
+    margin-left: 95px;
+}
+.banner {
+    top: 0 auto;
+    margin-top: 0 auto;
+    background-image: url(img/Rectangle\ 1.png);
+    height: 861px;
+    background-repeat: no-repeat;
+    width: 1920px;
+}
+.banner img{
+    width: 754px;
+    height: 754px;
+    margin-top: 95px;
+    margin-left: 583px;
+    text-align: center;
+}
+
+.ellips{
+    width: 750px;
+    height: 750px;
+    background-color: #160f07a6;
+    border-radius: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.text2 h1{
+color: white;
+font-size: 60px;
+margin-top: -10px;
+margin-bottom: 50px;
+}
+
+.text1{
+    color: #FFD6A8;
+margin-top: 200px;
+font-size: 32px;
+}
+.text{
+    font-size: 24px;
+    color: white;
+}
+.ellips button{
+    border-color:  #A9845C;
+    background-color:  #A9845C;
+    color: white;
+    margin-top: 50px;
+    width: 200px;
+    height: 60px;
+}
+.photo{
+    color: #3B3937;
+    margin-left: 195px;
+    font-size: 32px;
+    font-weight: 900px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 20px;
+}
+
+.wrapper p {
+    margin-left: 195px;
+    font-size: 32px;
+    color: #3B3937;
+}
+.photo1{
+    color: #3B3937;
+    margin-left: 195px;
+    font-size: 32px;
+    font-weight: 900px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 35px;
+}
+footer{
+    width: 1920px;
+    background-color: #3B3937;
+    height: 402px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.main img{
+    top:  2134px;
+    margin-left:  381px;
+    text-align: center;
+    align-items: center;
+}
+.footer-photo{
+    margin-left: 280px;
+    align-items: center;
+}
+.footer-photo2{
+    margin-left: 
+   260px;
+}
